@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Web Driver">
+    <test name="Sample Test">
+        <classes>
+            <class name="TestBase.TestBase"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
