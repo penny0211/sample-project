@@ -3,7 +3,7 @@
 2. File Upload with csv format
 
 ##  Steps:
-Before run step below, might need to boot up  localhost first via: 
+Before run step below, might need to boot up  localhost first via: http://tiny.cc/oppenheimerprojectdev
 java -jar OppenheimerProjectDev.jar.
 
 ##### 1. mvn compile 
