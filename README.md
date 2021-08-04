@@ -7,5 +7,7 @@ Before run step below, might need to boot up  localhost first via: http://tiny.c
 
 java -jar OppenheimerProjectDev.jar.
 
+
+Then run in terminal:
 ##### 1. mvn compile 
 ##### 2. mvn clean test 
